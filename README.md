@@ -1,2 +1,2 @@
 # psychic-tribble
-This is another test repository.
+Ich bin ein gummibär. Ich bin ein gummibär.
